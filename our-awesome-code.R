@@ -1,5 +1,5 @@
 awesome_function_1 <- function(argument1) {
-    tada Adam is cool _______
+    print("Adam")
 }
 
 awesome_function_2 <- function(argument1) {
